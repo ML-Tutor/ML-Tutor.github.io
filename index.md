@@ -1,3 +1,7 @@
+[email](eecs.tutor0@gmail.com)
+[twitter](twitter.com/@tutor_ml)
+
+
 Do you struggle to keep up with your professor in class? Do you find that you're missing a key part of the required background material, or that your peers latch onto concepts faster than you do -- and you end up running faster and faster only to stand still?
 
 ## Hi! I'm an online tutor and I'm here to help you learn!
