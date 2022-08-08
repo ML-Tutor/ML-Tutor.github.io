@@ -1,5 +1,5 @@
 [email](mailto:eecs.tutor0@gmail.com)
-[twitter](https://twitter.com/@tutor_ml)
+[twitter](https://twitter.com/@algo_ml_tutor)
 
 
 Do you struggle to keep up with your professor in class? Do you find that you're missing a key part of the required background material, or that your peers latch onto concepts faster than you do -- and you end up running faster and faster only to stand still?
