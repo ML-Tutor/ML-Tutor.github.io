@@ -7,3 +7,24 @@
 
   gtag('config', 'AW-10846055134');
 </script>
+
+
+<script>
+  window.addEventListener('load',function(){
+    document.querySelectorAll('[herf*="mailto"]').forEach(function(email){
+      add.onclick = function(){
+        gtag('event', 'conversion', {'send_to': 'AW-10846055134/WmKmCP6RiNkDEN7V5rMo'});
+      }
+    })
+    document.querySelectorAll('[href*="https://forms.gle/"]').forEach(function(forms){
+      forms.onclick = function(){
+        gtag('event', 'conversion', {'send_to': 'AW-10846055134/RgVhCIGSiNkDEN7V5rMo'});
+      }
+    })
+    document.querySelectorAll('[href*="https://twitter.com"]').forEach(function(twitter){
+      twitter.onclick = function(){
+        gtag('event', 'conversion', {'send_to': 'AW-10846055134/m_O6CISSiNkDEN7V5rMo'});
+      }
+    })
+  })
+</script>
