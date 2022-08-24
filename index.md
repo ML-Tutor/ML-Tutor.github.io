@@ -172,4 +172,25 @@ We have gone from 'almost failing' to an A in individual courses; and from a low
 
 I have a systematic approach to tutoring subjects and help students develop their intuition on how to approach problems. This means that we cover a topic such as Dynamic Programming over more than 8 sessions (versus 2-3 in a typical course). I have a large number of practice problems organized systematically that build on your existing knowledge to further firm up understanding.
 
-If you would like to explore the possibility of working together, get in touch via [email](eecs.tutor0@gmail.com) or fill out this [form](https://forms.gle/RKF4LGkaLQhojrno7). My rates are between $150 - $200 per hour, and I am open to working with groups of 2-3 students. The first session is free
+If you would like to explore the possibility of working together, get in touch via [email](eecs.tutor0@gmail.com) or fill out this [form](https://forms.gle/RKF4LGkaLQhojrno7). My rates are between $150 - $200 per hour, and I am open to working with groups of 2-3 students. The first session is free.
+
+
+<script>
+  window.addEventListener('load',function(){
+    document.querySelectorAll('[herf*="mailto"]').forEach(function(email){
+      add.onclick = function(){
+        gtag('event', 'conversion', {'send_to': 'AW-10846055134/WmKmCP6RiNkDEN7V5rMo'});
+      }
+    })
+    document.querySelectorAll('[href*="https://forms.gle/"]').forEach(function(forms){
+      forms.onclick = function(){
+        gtag('event', 'conversion', {'send_to': 'AW-10846055134/RgVhCIGSiNkDEN7V5rMo'});
+      }
+    })
+    document.querySelectorAll('[href*="https://twitter.com"]').forEach(function(twitter){
+      twitter.onclick = function(){
+        gtag('event', 'conversion', {'send_to': 'AW-10846055134/m_O6CISSiNkDEN7V5rMo'});
+      }
+    })
+  })
+</script>
