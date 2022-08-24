@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Ads: 10846055134 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10846055134"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10846055134');
+</script>
+
+
 [email](mailto:eecs.tutor0@gmail.com)
 [form](https://forms.gle/RKF4LGkaLQhojrno7)
 [twitter](https://twitter.com/@algo_ml_tutor)
@@ -117,7 +128,7 @@ I have helped students from the following fine institutions:
 In a variety of subjects from 
 
 ### Computer Science:
-* Different avatars of Algorithms: Introduction to Algorithms, Algorithms and Complexity, Theory of Algorithms, Analysis of Algorithms, Algorithms and Data Structures, Efficient Algorithms and Intractable Problems, , Design and Analysis of Algorithms,...
+* Different avatars of Algorithms: Introduction to Algorithms, Algorithms and Complexity, Theory of Algorithms, Analysis of Algorithms, Algorithms and Data Structures, Efficient Algorithms and Intractable Problems, Design and Analysis of Algorithms,...
 * Theoretical CS: Theory of Computation, Foundations of Computing, Complexity Theory
 * Other CS: Compilers and Operating Systems
 
