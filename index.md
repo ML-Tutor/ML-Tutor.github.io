@@ -6,7 +6,10 @@
 
 Do you struggle to keep up with your professor in class? Do you find that you're missing a key part of the required background material, or that your peers latch onto concepts faster than you do -- and you end up running faster and faster only to stand still?
 
-## Hi! I'm an online tutor and I'm here to help you learn!
+## Hi! I'm Shrirang. I'm an online tutor and I'm here to help you learn!
+![shrirang](/_images/K52_5374-removebg crop.png)
+
+![shrirang](/_images/K52_5374-removebg crop.png)
 
 I have a PhD from a top-10 University, a long career in industry and have been tutoring students for the past five years.
 
